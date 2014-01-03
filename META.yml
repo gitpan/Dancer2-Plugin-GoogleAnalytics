@@ -25,7 +25,7 @@ name: Dancer2-Plugin-GoogleAnalytics
 provides:
   Dancer2::Plugin::GoogleAnalytics:
     file: lib/Dancer2/Plugin/GoogleAnalytics.pm
-    version: 0.001
+    version: 0.002
 requires:
   Dancer2: 0
   Dancer2::Core::Hook: 0
@@ -36,4 +36,4 @@ requires:
 resources:
   homepage: https://github.com/garcer/Dancer2-Plugin-GoogleAnalytics
   repository: https://github.com/garcer/Dancer2-Plugin-GoogleAnalytics.git
-version: 0.001
+version: 0.002

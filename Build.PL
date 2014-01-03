@@ -18,7 +18,7 @@ my %module_build_args = (
     "Cesare Gargano <garcer\@cpan.org>"
   ],
   "dist_name" => "Dancer2-Plugin-GoogleAnalytics",
-  "dist_version" => "0.001",
+  "dist_version" => "0.002",
   "license" => "perl",
   "module_name" => "Dancer2::Plugin::GoogleAnalytics",
   "recommends" => {},

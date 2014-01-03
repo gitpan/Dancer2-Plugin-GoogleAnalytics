@@ -1,7 +1,7 @@
 # ABSTRACT: A Dancer2 plugin to easily add Google Analytics code.
 package Dancer2::Plugin::GoogleAnalytics;
 {
-  $Dancer2::Plugin::GoogleAnalytics::VERSION = '0.001';
+  $Dancer2::Plugin::GoogleAnalytics::VERSION = '0.002';
 }
 
 use strict;
@@ -81,7 +81,7 @@ Dancer2::Plugin::GoogleAnalytics - A Dancer2 plugin to easily add Google Analyti
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 DESCRIPTION
 
@@ -106,14 +106,6 @@ in your template.
             GoogleAnalytics:
                 account: "UA-XXXXX-X"
 
-=head1 LICENCE
-
-This module is released under the same terms as Perl itself.
-
-=head1 AUTHORS
-
-This module has been written by Cesare Gargano C<< <garcer at cpan.org> >>.
-
 =head1 SEE ALSO
 
 L<Dancer2> L<Dancer2::Plugins>
@@ -124,7 +116,7 @@ Cesare Gargano <garcer@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2013 by Cesare Gargano.
+This software is copyright (c) 2014 by Cesare Gargano.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
